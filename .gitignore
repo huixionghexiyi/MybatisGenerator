@@ -1,0 +1,5 @@
+.idea
+target
+src/main/java/mapper/*
+src/main/java/model/*
+src/main/resources/mapper/*
